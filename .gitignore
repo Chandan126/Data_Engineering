@@ -1,0 +1,5 @@
+Week1_GCP_and_Terraform/.terraform
+Week1_GCP_and_Terraform/.terraform.lock.hcl
+Week1_Docker_and_Postgres/ny_taxi_data
+Week1_Docker_and_Postgres/yellow_tripdata_2021-01.csv
+Week1_Docker_and_Postgres/taxi+_zone_lookup.csv
